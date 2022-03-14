@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "name": "Melman",
+      "age": "20",
+      "dni": "43269772"
+    },
+    {
+      "name": "Alex",
+      "age": "14",
+      "dni": "0000001"
+    },
+    {
+      "name": "Gloria ",
+      "age": "13",
+      "dni": "45875412"
+    },
+    {
+      "name": "Rey Julien",
+      "age": "10",
+      "dni": "53421896"
+    },
+    {
+      "name": "Marty",
+      "age": "35",
+      "dni": "17895241"
+    }
+  ]
+}
